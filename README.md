@@ -1,6 +1,6 @@
 # Digital Image Processing (DIP) — Image Filtering & Image Compression
 
-**Student:** Shantanu Joshi — B.Tech (Hons.) Computer Science, Doon University, Dehradun
+**Student:** Ayush Dhiman — B.Tech Computer Science, Doon University, Dehradun
 **Subject:** Digital Image Processing (Semester 7)
 
 This repository contains two practical implementations:
